@@ -18,7 +18,7 @@ HELLDIVERS 2에서 기본 3인칭 조준 원이 없는 소총에 작고 반투�
 
 1. 게임을 완전히 종료합니다.
 2. [Chef Shared Loader의 최신 릴리스](https://github.com/Th3chef/Chef-Shared-Loader/releases/latest)에서 설치용 ZIP을 받아 모드 매니저에 추가하고 활성화합니다. GitHub의 `Source code` 압축파일이 아닌 **로더 릴리스 ZIP**을 사용하세요. 로더는 이 모드에 포함되어 있지 않습니다.
-3. [이 모드의 Releases](https://github.com/NeverB0re/Third-Person-Aim-Circle/releases/latest)에서 **`Third-Person Aim Circle v1.0.0.zip`**을 다운로드합니다. `Source code (zip)` / `Source code (tar.gz)`는 설치 파일이 아닙니다.
+3. [이 모드의 Releases](https://github.com/NeverB0re/Third-Person-Aim-Circle/releases/latest)에서 **`Third-Person.Aim.Circle.v1.0.0.zip`**을 다운로드합니다. `Source code (zip)` / `Source code (tar.gz)`는 설치 파일이 아닙니다.
 4. HD2 Arsenal, Modocracy 또는 HD2MM 등 모드 ZIP 가져오기를 지원하는 매니저에서 이 ZIP을 가져옵니다. 압축을 풀어 `Addon` 폴더만 가져오는 대신 **ZIP 자체를 추가**하고, `Third-Person Aim Circle` 항목을 활성화합니다.
 5. **Chef Shared Loader를 가장 높은 우선순위**로 설정합니다. Arsenal에서 `First mod highest priority`라면 맨 위, `Last mod highest priority`라면 맨 아래에 둡니다. 다른 매니저에서는 로더가 다른 `boot` 스크립트보다 우선하도록 설정합니다.
 6. 매니저에서 모드를 배포/적용합니다. Arsenal에서 기존 배포를 갱신한다면 로더 안내에 따라 **Purge → Deploy**를 실행합니다. 다른 매니저에서는 해당 매니저의 배포/적용 기능을 사용합니다.
@@ -65,7 +65,7 @@ The circle is hidden while using the normal first-person scope. The mod also sup
 
 1. Close the game completely.
 2. Download the installable ZIP from the [latest Chef Shared Loader release](https://github.com/Th3chef/Chef-Shared-Loader/releases/latest), import it into your mod manager, and enable it. Use the **loader release ZIP**, not GitHub's `Source code` archive. The loader is not bundled with this mod.
-3. Download **`Third-Person Aim Circle v1.0.0.zip`** from [this mod's Releases](https://github.com/NeverB0re/Third-Person-Aim-Circle/releases/latest). `Source code (zip)` and `Source code (tar.gz)` are not installable mod packages.
+3. Download **`Third-Person.Aim.Circle.v1.0.0.zip`** from [this mod's Releases](https://github.com/NeverB0re/Third-Person-Aim-Circle/releases/latest). `Source code (zip)` and `Source code (tar.gz)` are not installable mod packages.
 4. Import the **ZIP itself** into a manager supporting mod ZIP imports, such as HD2 Arsenal, Modocracy, or HD2MM, and enable `Third-Person Aim Circle`. Do not import only the extracted `Addon` folder.
 5. Give **Chef Shared Loader the highest priority**. In Arsenal, put it at the top with `First mod highest priority`, or at the bottom with `Last mod highest priority`. In other managers, ensure the loader takes precedence over other `boot` scripts.
 6. Deploy/apply the mods. When refreshing an existing Arsenal deployment, follow the loader instructions and use **Purge → Deploy**. In other managers, use their corresponding deployment/apply action.

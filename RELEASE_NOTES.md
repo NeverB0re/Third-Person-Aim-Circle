@@ -8,7 +8,7 @@ HELLDIVERS 2에서 APW-1 Anti-Materiel Rifle, R-40 Sightliner, AMW-20 Apex를 �
 
 1. 게임을 종료합니다.
 2. [Chef Shared Loader](https://github.com/Th3chef/Chef-Shared-Loader/releases/latest)의 설치용 ZIP을 모드 매니저에 추가하고 활성화합니다. 로더는 별도 설치가 필요합니다.
-3. 아래 Assets에서 **`Third-Person Aim Circle v1.0.0.zip`**을 받아 ZIP 자체를 모드 매니저에 가져오고 활성화합니다. `Source code` 압축파일은 설치 파일이 아닙니다.
+3. 아래 Assets에서 **`Third-Person.Aim.Circle.v1.0.0.zip`**을 받아 ZIP 자체를 모드 매니저에 가져오고 활성화합니다. `Source code` 압축파일은 설치 파일이 아닙니다.
 4. **Chef Shared Loader를 가장 높은 우선순위**로 둡니다. Arsenal의 `First mod highest priority` 설정에서는 맨 위, `Last mod highest priority`에서는 맨 아래입니다.
 5. 모드를 배포/적용합니다. Arsenal의 기존 배포를 갱신할 때는 **Purge → Deploy**를 실행합니다.
 6. 게임의 임무에서 지원 무기를 사용합니다. **F9 → Third-Person Aim Circle → Aim circle**에서 표시를 전환합니다.
@@ -31,7 +31,7 @@ Adds a small, translucent third-person aim circle for the APW-1 Anti-Materiel Ri
 
 1. Close the game.
 2. Import and enable the installable ZIP from [Chef Shared Loader](https://github.com/Th3chef/Chef-Shared-Loader/releases/latest) in your mod manager. Install the loader separately.
-3. Download **`Third-Person Aim Circle v1.0.0.zip`** under Assets below, import the ZIP itself into your mod manager, and enable it. The `Source code` archives are not installable packages.
+3. Download **`Third-Person.Aim.Circle.v1.0.0.zip`** under Assets below, import the ZIP itself into your mod manager, and enable it. The `Source code` archives are not installable packages.
 4. Give **Chef Shared Loader the highest priority**. In Arsenal, this is the top with `First mod highest priority`, or the bottom with `Last mod highest priority`.
 5. Deploy/apply the mods. When refreshing an existing Arsenal deployment, use **Purge → Deploy**.
 6. Equip a supported weapon in a mission. Toggle it under **F9 → Third-Person Aim Circle → Aim circle**.
@@ -44,7 +44,7 @@ The circle is hidden in the normal first-person scope and on the ship. If aim da
 
 ---
 
-SHA-256 — `Third-Person Aim Circle v1.0.0.zip`
+SHA-256 — `Third-Person.Aim.Circle.v1.0.0.zip`
 
 ```text
 4f0872ad106d511d91af8c7c1369621e4b9ae1746ab3f04e3b0050ceac167b2c
